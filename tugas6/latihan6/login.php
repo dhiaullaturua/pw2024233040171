@@ -20,8 +20,8 @@
 
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
-        $username = "novanganteng12";
-        $password = "gantengbatgua";
+        $username = "ulboyyy03";
+        $password = "selamatdatang";
 
         $input_username = $_POST["username"];
         $input_password = $_POST["password"];
